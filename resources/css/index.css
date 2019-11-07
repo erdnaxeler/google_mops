@@ -3,3 +3,8 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body {
+	background-image: url('https://erdnaxeler.github.io/google_mops/resources/images/background_pugs.MOV');
+	background-repeat: repeat;
+}
